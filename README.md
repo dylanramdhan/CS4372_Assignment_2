@@ -1,4 +1,4 @@
-# CS4372_Assignment_2
+# CS4372 Assignment: #2
 ## Assignment 2 - Using Trees
 Teammates: Taylor Mitchell & Dylan Ramdhan
 
